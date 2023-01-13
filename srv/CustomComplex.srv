@@ -1,0 +1,6 @@
+# We can use other message descriptions (add dependency!)
+# Request
+example_interfaces/Int64MultiArray values
+---
+# Response
+int64[] values

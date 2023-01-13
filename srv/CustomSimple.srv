@@ -1,0 +1,8 @@
+# This service uses only built-in-types
+
+# Request:
+string object_name
+---
+# Response:
+bool is_valid
+float64 value
